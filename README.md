@@ -1,6 +1,6 @@
-# CODSOFT_Level1_Task1_Portfolio
 
-# Sayali Sujit Mungekar - Portfolio
+
+# Sayali Mungekar - Portfolio
 
 This is the personal portfolio website for Sayali Sujit Mungekar.
 
